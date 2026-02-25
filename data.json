@@ -1,0 +1,34 @@
+{
+  "empresa_madre": {
+    "nombre": "Excelencia Ideas Publicitarias, S.L.",
+    "trayectoria_años": 30,
+    "sector": "Agencia de Publicidad y Medios"
+  },
+  "medio": {
+    "nombre": "enZonaMinera.com",
+    "año_fundacion": 2010,
+    "años_en_activo": 16,
+    "formatos": {
+      "papel": {
+        "periodicidad": "Mensual",
+        "tirada": 15000,
+        "distribucion": "Buzoneo gratuito en Trapagaran, Muskiz, Ortuella y Abanto Zierbena"
+      },
+    "formato_digital": {
+      "descripcion": "Red de diarios locales digitales",
+      "actualizacion": "Diaria",
+      "sitios_web": [
+        { "municipio": "Trapagaran", "url": "https://entrapagaran.com" },
+        { "municipio": "Muskiz", "url": "https://enmuskiz.com" },
+        { "municipio": "Ortuella", "url": "https://enortuella.com" },
+        { "municipio": "Abanto Zierbena", "url": "https://enabantozierbena.com" }
+      ]
+    }
+  },
+  "servicios": [
+    "Publicidad impresa",
+    "Publicidad digital",
+    "Publirreportajes",
+    "Gestión de contenidos locales"
+  ]
+}
